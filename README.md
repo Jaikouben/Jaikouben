@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-All past projects are hosted on this account with instructor permission.
+Note: All past projects are hosted on this account with instructor permission.
 
 <!--
 **Jaikouben/Jaikouben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
